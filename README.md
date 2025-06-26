@@ -1,0 +1,5 @@
+"# DNA_simulation" 
+------POL------
+Projekt zakłada stworzenie programu DNA wspomagającego statystyczne oszacowanie podobieństwa DNA. Poniższe funkcje są przydatne zwłaszcza w skomplikowanych powiązaniach krzyżowych w drzewie genealogicznym. Opiera się on na losowym generowaniu wirtualnego DNA osób początkowych, a następnie losowym dziedziczeniu dla potomków. Metoda ta w szybki sposób pozwala określić procentowe podobieństwo DNA poprzez porównanie wirtualnych DNA wybranych osób.
+------ENG------
+The project assumes the creation of a DNA program supporting the statistical estimation of DNA similarity. The following functions are useful especially in complex cross-connections in the family tree. It is based on random generation of virtual DNA of the initial people, followed by random inheritance for the descendants. This method quickly allows you to determine the percentage similarity of DNA by comparing the virtual DNA of selected people.
